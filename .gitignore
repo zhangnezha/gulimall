@@ -1,0 +1,4 @@
+# Project exclude paths
+/gulimall-common/target/
+/gulimall-gateway/target/
+/renren-fast/target/
